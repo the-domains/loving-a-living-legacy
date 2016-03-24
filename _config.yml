@@ -1,0 +1,28 @@
+name: Loving; A living legacy
+favicon: null
+layout_spectrum: 0.8923041527159512
+typography_spectrum: 0.27431183960288763
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.005223861429840326
+  lightness: 0.16514050005935133
+  saturation: 0.30642937822267413
+  rhythmicContrast: 0.9242796662729234
+purpose: []
