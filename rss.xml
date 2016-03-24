@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Loving; A living legacy]]></title>
         <description><![CDATA[Loving; A living legacy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/loving-a-living-legacy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 18:11:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 18:46:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/loving-a-living-legacy/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ebd7db06-bf07-40d0-86df-50015b3ca2f6.jpg">]]></description>
+            <link>https://thegrid.ai/loving-a-living-legacy/84c90d5c-f0d3-4f28-8c8d-d94e81fac22b/index.html</link>
+            <guid isPermaLink="false">84c90d5c-f0d3-4f28-8c8d-d94e81fac22b</guid>
+            <pubDate>Thu, 24 Mar 2016 18:46:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/29b4106a-23ce-4da4-941f-8b87b0677738.jpg">]]></description>
-            <link>undefined79ed2fd7-6a32-4201-92f0-4cae52f70e8b/index.html</link>
+            <link>https://thegrid.ai/loving-a-living-legacy/79ed2fd7-6a32-4201-92f0-4cae52f70e8b/index.html</link>
             <guid isPermaLink="false">79ed2fd7-6a32-4201-92f0-4cae52f70e8b</guid>
             <pubDate>Thu, 24 Mar 2016 18:11:18 GMT</pubDate>
         </item>
